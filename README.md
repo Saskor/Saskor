@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexander Korinskiy 
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some Angular project
 - 📫 How to reach me korinskiy1985@gmail.com
 
 <!---
